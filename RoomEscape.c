@@ -2,7 +2,7 @@
 개발자 : 정재민, 박준호
 개발일 :  2021.09.17
 문의 : jeongjaemin60@gmail.com 
-
+설명 : C언어를 이용한 간단한 방탈출 게임 
 */
 
 #include <stdio.h>
